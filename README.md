@@ -2,5 +2,5 @@
 ## LAB2
 priority scheduler
 
-## LAB#
+## LAB3
 kernel module build and file operations
